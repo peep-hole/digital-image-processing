@@ -1,0 +1,1 @@
+(x1 v x3) i (~x2 v ~x1) i (x3 v ~x2) i (x2 i x3) i (~x1 v x3)
